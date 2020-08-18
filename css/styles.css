@@ -48,7 +48,7 @@ section {
  }
 
 .navbar-brand {
-  background: url('/imgs/logo-black.png') no-repeat center;
+  background: url('https://github.com/marcsanchez1/burgernation/blob/master/imgs/logo-black.png') no-repeat center;
   background-size: 100%;
   width: 200px;
   height: 75px;
@@ -151,7 +151,7 @@ section {
     }
 
     .navbar-brand {
-      background: url('imgs/logo-white.png') no-repeat center;
+      background: url('https://github.com/marcsanchez1/burgernation/blob/master/imgs/logo-white.png') no-repeat center;
       background-size: 100%;
       width: 250px;
       height: 75px;
