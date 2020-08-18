@@ -48,7 +48,7 @@ section {
  }
 
 .navbar-brand {
-  background: url('/imgs/logo-black.png') no-repeat center;
+  background: url('imgs/logo-black.png') no-repeat center;
   background-size: 100%;
   width: 200px;
   height: 75px;
